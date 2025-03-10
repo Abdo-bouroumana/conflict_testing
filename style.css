@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.header{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.firstH1{
+    color: white;
+    font-family: "Roboto";
+}
+.nav_bar{
+    padding: 20px 0;
+    text-align: center;
+}
+
+.nav_bar a{
+    margin: 0px 10px;
+}
+
+.nav_bar a:hover{
+    color: blue;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-family: "Roboto";
+    font-weight: 500;
+
+}
+
+.container{
+    background: white;
+    margin: 0px 70px;
+    border-radius: 10px;
+    padding: 10px 10px;
+    font-family: "Roboto";
+}
+
+.container p{
+    margin-left: 30px;
+}
+
+.container h2{
+    color: blue;
+    margin-left: 10px;
+}
+
+.container img{
+    width:250px;
+    height: 150px;
+    margin-left: 30px;
+    border-radius: 5px;
+}
